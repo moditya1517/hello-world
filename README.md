@@ -1,2 +1,7 @@
 # hello-world
-My first repository, thank you github
+
+Hello humans !
+
+I am Savitar, I like C/C++, java and Javascript.
+There has been speculation whether I belong to earth or not.
+I'll let you figure that out.
